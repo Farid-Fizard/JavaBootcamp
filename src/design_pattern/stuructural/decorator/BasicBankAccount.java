@@ -18,7 +18,4 @@ public class BasicBankAccount implements BankAccount {
         }
     }
 
-    public double getBalance() {
-        return balance;
-    }
 }
